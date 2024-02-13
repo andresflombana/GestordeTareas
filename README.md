@@ -1,7 +1,7 @@
 # Gestor de Tareas
 
 <p align="center">
-    <img src="https://w7.pngwing.com/pngs/338/556/png-transparent-task-list-thumbnail.png" alt="Logo Gestor">
+    <img src="https://www.grupocibernos.com/hs-fs/hubfs/beesuite/Tareas%20GTD-1.png?width=538&name=Tareas%20GTD-1.png" alt="Logo Gestor">
 </p>
 
 
